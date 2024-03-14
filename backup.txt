@@ -1,0 +1,11 @@
+#:0:are:1:file1.txt:2:#
+#:1:B:1:file2.txt:1:#
+#:2:Chandran:1:file2.txt:1:#
+#:7:Hello:2:file1.txt:1:file2.txt:2:#
+#:7:how:1:file1.txt:2:#
+#:7:Hi:1:file2.txt:1:#
+#:8:is:1:file2.txt:1:#
+#:9:Jyothish:1:file2.txt:1:#
+#:12:my:1:file2.txt:1:#
+#:13:name:1:file2.txt:1:#
+#:24:you:1:file1.txt:2:#
